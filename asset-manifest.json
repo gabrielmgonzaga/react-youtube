@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/react-youtube/static/js/main.5f5924df.chunk.js",
-    "main.js.map": "/react-youtube/static/js/main.5f5924df.chunk.js.map",
+    "main.css": "/react-youtube/static/css/main.96c11df6.chunk.css",
+    "main.js": "/react-youtube/static/js/main.76744138.chunk.js",
+    "main.js.map": "/react-youtube/static/js/main.76744138.chunk.js.map",
     "runtime-main.js": "/react-youtube/static/js/runtime-main.e2ff4275.js",
     "runtime-main.js.map": "/react-youtube/static/js/runtime-main.e2ff4275.js.map",
-    "static/js/2.3fb22a93.chunk.js": "/react-youtube/static/js/2.3fb22a93.chunk.js",
-    "static/js/2.3fb22a93.chunk.js.map": "/react-youtube/static/js/2.3fb22a93.chunk.js.map",
+    "static/js/2.e0590844.chunk.js": "/react-youtube/static/js/2.e0590844.chunk.js",
+    "static/js/2.e0590844.chunk.js.map": "/react-youtube/static/js/2.e0590844.chunk.js.map",
     "index.html": "/react-youtube/index.html",
-    "precache-manifest.9bced01cbf9581a49297f4c104e5c7e4.js": "/react-youtube/precache-manifest.9bced01cbf9581a49297f4c104e5c7e4.js",
+    "precache-manifest.c99b41709e77d57924fad679ffce67b9.js": "/react-youtube/precache-manifest.c99b41709e77d57924fad679ffce67b9.js",
     "service-worker.js": "/react-youtube/service-worker.js",
-    "static/js/2.3fb22a93.chunk.js.LICENSE": "/react-youtube/static/js/2.3fb22a93.chunk.js.LICENSE"
+    "static/css/main.96c11df6.chunk.css.map": "/react-youtube/static/css/main.96c11df6.chunk.css.map",
+    "static/js/2.e0590844.chunk.js.LICENSE": "/react-youtube/static/js/2.e0590844.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e2ff4275.js",
-    "static/js/2.3fb22a93.chunk.js",
-    "static/js/main.5f5924df.chunk.js"
+    "static/js/2.e0590844.chunk.js",
+    "static/css/main.96c11df6.chunk.css",
+    "static/js/main.76744138.chunk.js"
   ]
 }
